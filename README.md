@@ -34,16 +34,6 @@ A simple Java project demonstrating all **core OOP principles**:
 
 ---
 
-## 💻 How to Run
-
-1. Clone or download the repository.
-
-2. Compile the Java files:
-
-   ```bash
-   javac *.java
-
-
 
 ---- Student Details ----
 Regular Student:
