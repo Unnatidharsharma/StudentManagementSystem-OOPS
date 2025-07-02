@@ -11,7 +11,6 @@ A simple Java project demonstrating all **core OOP principles**:
 - Differentiates between Regular and Distance Students
 - Implements abstraction using an abstract `Student` class
 - Uses interface `Payable` to calculate fees
-- Fully automated — no user input required
 
 ---
 
